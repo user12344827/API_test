@@ -51,11 +51,11 @@ mydb.py
 ![圖片描述](../photo/delete.png)
 
 ## 資料庫畫面
-1. 在Swagger註冊資料後，資料庫呈現
+1. 在Swagger註冊資料後，資料庫呈現<br>
 ![圖片描述](../photo/register_DB.png)
 
-2. Get/Post 打入資料到資料庫
+2. Get/Post 打入資料到資料庫<br>
 ![圖片描述](../photo/1_get_2_post_kiki_put.png)
 
-3. 在Swagger刪除資料後，資料庫呈現
+3. 在Swagger刪除資料後，資料庫呈現<br>
 ![圖片描述](../photo/delete_DB.png)
